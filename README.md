@@ -4,7 +4,7 @@
 
 
 
-## ` ARDA STORE `
+## `「 ARDA STORE 」`
 <p align="center">
 <a href="https://bit.ly/ArdaSahaWA"><img src="https://j.top4top.io/p_2201fhvok0.jpg" />
 </p>
@@ -15,7 +15,11 @@
 
 ## `SC FEBZABOTZ`
 - [![FUUL FITUR RPG](https://img.shields.io/badge/Video-ff3399)](https://youtu.be/4EWisOAkI2A)
-- [![Sumber Sc FEBZABOTZ](https://img.shields.io/badge/Download-ff3399)](https://github.com/ArdaStore/PikonXCode/archive/refs/heads/master.zip)
+- [![Sumber Sc FEBZABOTZ](https://img.shields.io/badge/Github-ff3399)](https://github.com/ArdaStore/PikonXCode/archive/refs/heads/master.zip)
+- [![Link Mediafire](https://img.shields.io/badge/Github-ff3399)](https://www.mediafire.com/file/p8tjxdb3qwblysl/zzeebot.zip/file)
+
+
+
 ----------
 
 
