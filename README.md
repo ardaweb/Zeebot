@@ -59,19 +59,19 @@
 
 
 ## `THANKS TO SC`
-- Febriansyah ( Devoloper & Penyedia Base )
-- Fadhil Graphy ( My Mastah & Penyedia cmd )
-- Hazn ( My Mastah & Penyedia cmd )
-- Arasya ( Penyedia cmd )
-- Decode Denpa ( Penyedia cmd )
-- KahfzBotz ( Penyedia cmd )
-- Iky ( Penyedia cmd )
-- Bang Hardianto ( Penyedia Rest Api )
-- MhankBarBar ( Base Ori )
-- Ndyie Botz ( Gak Tau Lupa )
-- Lexa ( Eeee Lupa Juga )
-- Nurul ( - _< )
-- Epan ( Penyaran UI )
+-  Febriansyah ( Devoloper & Penyedia Base )
+-  Fadhil Graphy ( My Mastah & Penyedia cmd )
+-  Hazn ( My Mastah & Penyedia cmd )
+-  Arasya ( Penyedia cmd )
+-  Decode Denpa ( Penyedia cmd )
+-  KahfzBotz ( Penyedia cmd )
+-  Iky ( Penyedia cmd )
+-  Bang Hardianto ( Penyedia Rest Api )
+-  MhankBarBar ( Base Ori )
+-  Ndyie Botz ( Gak Tau Lupa )
+-  Lexa ( Eeee Lupa Juga )
+-  Nurul ( - _< )
+-  Epan ( Penyaran UI )
 ----------
 
 
