@@ -16,7 +16,7 @@
 ## `SC FEBZABOTZ`
 - [![FUUL FITUR RPG](https://img.shields.io/badge/Video-ff3399)](https://youtu.be/4EWisOAkI2A)
 - [![Sumber Sc FEBZABOTZ](https://img.shields.io/badge/Github-ff3399)](https://github.com/ArdaStore/PikonXCode/archive/refs/heads/master.zip)
-- [![Link Mediafire](https://img.shields.io/badge/Github-ff3399)](https://www.mediafire.com/file/p8tjxdb3qwblysl/zzeebot.zip/file)
+- [![Link Mediafire](https://img.shields.io/badge/Mediafire-ff3399)](https://www.mediafire.com/file/p8tjxdb3qwblysl/zzeebot.zip/file)
 
 
 
